@@ -1,0 +1,10 @@
+#+title: RFC MIRROR
+#+author: entropy (bmsac0001@gmail.com)
+
+This repo contains bash script to make a archive mirror of all [[https://www.rfc-editor.org/][RFC]]
+presented til the time we've ran that for.
+
+Usage:
+#+begin_src bash
+bash ./rsync.sh
+#+end_src
